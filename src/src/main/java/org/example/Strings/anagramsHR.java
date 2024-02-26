@@ -22,7 +22,7 @@ public class anagramsHR {
         return false;
     }
 
-    public static void main(String[] args) {
+    public static void anagrams() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the first String");
         String a = scan.next();
